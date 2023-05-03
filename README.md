@@ -27,7 +27,7 @@
   
   <h3> Calculator</h3>
   
-  - [Polynomial Calculator](https://github.com/RicardoR23/Personal-Projects/Polynomial-Calculator)
+  - [Polynomial Calculator](https://github.com/RicardoR23/Personal-Projects/)
   
 <h2> 🏫 Academic Projects: </h2>
 
@@ -35,8 +35,8 @@
 
   <h3> SortAlgorithims </h3>
   
-  - [SortAlgorithms](https://github.com/RicardoR23/Personal-Projects/SortAlgorithms)
+  - [SortAlgorithms](https://github.com/RicardoR23/Personal-Projects/)
   
   <h3> Connect 4 </h3>
   
-  - [Connect 4](https://github.com/RicardoR23/Personal-Projects/Connect-4)
+  - [Connect 4](https://github.com/RicardoR23/Personal-Projects/)
