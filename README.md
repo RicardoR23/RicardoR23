@@ -35,8 +35,8 @@
 
   <h3> SortAlgorithims </h3>
   
-  - [SortAlgorithms](https://github.com/RicardoR23/School/SortAlgorithms)
+  - [SortAlgorithms](https://github.com/RicardoR23/Personal-Projects/SortAlgorithms)
   
   <h3> Connect 4 </h3>
   
-  - [Connect 4](https://github.com/RicardoR23/School/Connect-4)
+  - [Connect 4](https://github.com/RicardoR23/Personal-Projects/Connect-4)
