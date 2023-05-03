@@ -14,8 +14,6 @@
 
 <h2>🌱 Currently Learning:</h2>
 
-**[Sololearn Profile](https://www.sololearn.com/profile/27933381)**
-
   <b> Programming Languages: C, Java </b>
 
   <b> Web/App Development: HTML </b>
@@ -27,17 +25,13 @@
 
   **[Personal Projects](https://github.com/RicardoR23/Personal-Projects)**
   
-  <h3> My Website</h3>
+  <h3> Calculator</h3>
   
-  - [My Website](https://github.com/submit507/Website)
-  
-  <h3> Polynomial Calculator</h3>
-  
-  - [Polynomial Calculator](https://github.com/RicardoR23/Personal-Projects/Calculator)
+  - [Calculator](https://github.com/RicardoR23/Personal-Projects/Calculator)
   
 <h2> 🏫 Academic Projects: </h2>
 
-**[Academic Projects](https://github.com/submit507/Academic-Projects)**
+**[Academic Projects](https://github.com/RicardoR23/Academic-Projects)**
 
   <h3> SortAlgorithims </h3>
   
