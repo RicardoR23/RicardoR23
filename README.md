@@ -25,7 +25,7 @@
 
 <h2>👨‍💻 Personal Projects:</h2>
 
-  **[Personal Projects](https://github.com/submit507/Personal-Projects)**
+  **[Personal Projects](https://github.com/RicardoR23/Personal-Projects)**
   
   <h3> My Website</h3>
   
@@ -33,7 +33,7 @@
   
   <h3> Polynomial Calculator</h3>
   
-  - [Polynomial Calculator](https://github.com/submit507/Polynomial-Calculator)
+  - [Polynomial Calculator](https://github.com/RicardoR23/Personal-Projects/Calculator)
   
 <h2> 🏫 Academic Projects: </h2>
 
